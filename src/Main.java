@@ -16,6 +16,6 @@ public class Main {
 //        NextPermutation.Permutation(new int[]{2,1,5,4,3,0,0});
 //        LeadersInArray.LeadersArray(new int[]{1,2,3,2});
 //        LongConsSequence.LongestSequence(new int[]{102,4,100,1,101,3,2,1,1});
-          MaximumProductSubArr.MaxProSubArr(new int[]{2,3,-2,4});
-    }
+          Merge2SortedArray.merge(new int[]{1,3,5,0,0,0},new int[]{2,4,6});
+}
 }
