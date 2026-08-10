@@ -17,6 +17,8 @@ public class Main {
 //        LeadersInArray.LeadersArray(new int[]{1,2,3,2});
 //        LongConsSequence.LongestSequence(new int[]{102,4,100,1,101,3,2,1,1});
 //        Merge2SortedArray.merge(new int[]{1,3,5,0,0,0},new int[]{2,4,6});
-          ThirdMaximumNumber.ThirdMaximum(new int[]{3,2,1});
+//        ThirdMaximumNumber.ThirdMaximum(new int[]{3,2,1});
+//        ContainerWithMostWater.maxArea(new int[]{1,8,6,2,5,4,8,3,7});
+          SquaresOfSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
     }
 }
