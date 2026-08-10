@@ -19,6 +19,7 @@ public class Main {
 //        Merge2SortedArray.merge(new int[]{1,3,5,0,0,0},new int[]{2,4,6});
 //        ThirdMaximumNumber.ThirdMaximum(new int[]{3,2,1});
 //        ContainerWithMostWater.maxArea(new int[]{1,8,6,2,5,4,8,3,7});
-          SquaresOfSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
+//        SquaresOfSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
+          SubArrProductLessThanK.numSubarrayProductLessThanK(new int[]{10,5,2,6},100);
     }
 }
