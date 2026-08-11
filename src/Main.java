@@ -1,5 +1,5 @@
 import Arrays.*;
-
+import java.util.*;
 public class Main {
     public static void main(String[] args) {
 //        LeftRotateArray.LeftRotate(new int[]{1,2,3,4,5});
@@ -20,6 +20,9 @@ public class Main {
 //        ThirdMaximumNumber.ThirdMaximum(new int[]{3,2,1});
 //        ContainerWithMostWater.maxArea(new int[]{1,8,6,2,5,4,8,3,7});
 //        SquaresOfSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
-          SubArrProductLessThanK.numSubarrayProductLessThanK(new int[]{10,5,2,6},100);
+//        SubArrProductLessThanK.numSubarrayProductLessThanK(new int[]{10,5,2,6},100);
+//        ThreeSum.threeSum(new int[]{-1,0,1,2,-1,-4});
+//        MaximumAverageSubArr.findMaxAverage(new int[]{1,12,-5,-6,50,3},4);
+          MinimumSizeSubArraySum.minSubArrayLen(7,new int[]{2,3,1,2,4,3});
     }
 }
