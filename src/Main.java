@@ -23,6 +23,7 @@ public class Main {
 //        SubArrProductLessThanK.numSubarrayProductLessThanK(new int[]{10,5,2,6},100);
 //        ThreeSum.threeSum(new int[]{-1,0,1,2,-1,-4});
 //        MaximumAverageSubArr.findMaxAverage(new int[]{1,12,-5,-6,50,3},4);
-          MinimumSizeSubArraySum.minSubArrayLen(7,new int[]{2,3,1,2,4,3});
+//        MinimumSizeSubArraySum.minSubArrayLen(7,new int[]{2,3,1,2,4,3});
+          CountNumberOfNice.numberOfSubarrays(new int[]{1,1,2,1,1},3);
     }
 }
