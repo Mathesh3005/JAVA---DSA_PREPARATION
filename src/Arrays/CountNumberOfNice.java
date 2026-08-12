@@ -2,6 +2,7 @@ package Arrays;
 
 // Input = {1,1,2,1,1}, k = 3
 // Output = 2
+
 public class CountNumberOfNice {
     public static void numberOfSubarrays(int[] nums, int k) {
         int ans = atMost(nums, k) - atMost(nums, k - 1);
