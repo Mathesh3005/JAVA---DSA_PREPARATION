@@ -12,17 +12,11 @@ public class MaximumErasureValue {
             int left = 0;
             int max = 0;
             for (int right = 0; right < n; right++) {
-
                 int num = nums[right];
-
                 prefix[right + 1] = prefix[right] + num;
-
                 left = Math.max(left, last[num]);
-
                 int currentSum = prefix[right + 1] - prefix[left];
-
                 max = Math.max(max, currentSum);
-
                 last[num] = right + 1;
             }
             System.out.print(max);
