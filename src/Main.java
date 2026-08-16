@@ -26,6 +26,11 @@ public class Main {
 //        MinimumSizeSubArraySum.minSubArrayLen(7,new int[]{2,3,1,2,4,3});
 //        CountNumberOfNice.numberOfSubarrays(new int[]{1,1,2,1,1},3);
 //        MaximumErasureValue.maximumUniqueSubarray(new int[]{4,2,4,5,6});
+//<<<<<<< HEAD
           FindPivotIndex.pivotIndex(new int[]{1,7,3,6,5,6});
+//=======
+//        SubArraySumEqualsKPrefixsum.subarraySum(new int[]{1,1,1},2);
+          FindPivotIndex.pivotIndex(new int[]{1,7,3,6,5,6}); 
+//>>>>>>> 062b6769dc73f7abcdb87febb8dfc6ba32675db6
     }
 }
