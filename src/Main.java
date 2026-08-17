@@ -28,6 +28,7 @@ public class Main {
 //        MaximumEroasureValue.maximumUniqueSubarray(new int[]{4,2,4,5,6});
 //        FindPivotIndex.pivotIndex(new int[]{1,7,3,6,5,6});
 //        SubArraySumEqualsKPrefixsum.subarraySum(new int[]{1,1,1},2);
-          ContinuousSubarraySum.checkSubarraySum(new int[]{23,2,4,6,7},6);
+//        ContinuousSubarraySum.checkSubarraySum(new int[]{23,2,4,6,7},6);
+          LengthOfLongestSubarray.maxSubarrayLength(new int[]{1,2,3,1,2,3,1,2},2);
     }
 }
