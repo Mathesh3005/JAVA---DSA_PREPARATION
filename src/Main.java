@@ -1,4 +1,6 @@
 import Arrays.*;
+import Binary_Search.BasicBinarySearch;
+
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
@@ -29,6 +31,12 @@ public class Main {
 //        FindPivotIndex.pivotIndex(new int[]{1,7,3,6,5,6});
 //        SubArraySumEqualsKPrefixsum.subarraySum(new int[]{1,1,1},2);
 //        ContinuousSubarraySum.checkSubarraySum(new int[]{23,2,4,6,7},6);
-          LengthOfLongestSubarray.maxSubarrayLength(new int[]{1,2,3,1,2,3,1,2},2);
+//        LengthOfLongestSubarray.maxSubarrayLength(new int[]{1,2,3,1,2,3,1,2},2);
+
+
+          // Binary Search
+
+        BasicBinarySearch.search(new int[]{-1,0,3,5,9,12},9);
+
     }
 }
