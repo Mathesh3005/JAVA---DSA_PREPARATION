@@ -1,5 +1,6 @@
 import Arrays.*;
 import Binary_Search.BasicBinarySearch;
+import Binary_Search.FindPeakElement;
 import Binary_Search.FirstAndLastElement;
 import Binary_Search.SearchInsertPoint;
 
@@ -40,6 +41,7 @@ public class Main {
 //
 //        BasicBinarySearch.search(new int[]{-1,0,3,5,9,12},9);
 //        SearchInsertPoint.searchInsert(new int[]{1,3,5,6},7);
-        FirstAndLastElement.searchRange(new int[]{5,7,7,8,8,10},8);
+//        FirstAndLastElement.searchRange(new int[]{5,7,7,8,8,10},8);
+        FindPeakElement.findPeakElement(new int[]{1,2,1,3,5,6,4});
     }
 }
