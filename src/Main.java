@@ -1,5 +1,6 @@
 import Arrays.*;
 import Binary_Search.BasicBinarySearch;
+import Binary_Search.FirstAndLastElement;
 import Binary_Search.SearchInsertPoint;
 
 import java.util.*;
@@ -38,6 +39,7 @@ public class Main {
           // Binary Search
 //
 //        BasicBinarySearch.search(new int[]{-1,0,3,5,9,12},9);
-        SearchInsertPoint.searchInsert(new int[]{1,3,5,6},7);
+//        SearchInsertPoint.searchInsert(new int[]{1,3,5,6},7);
+        FirstAndLastElement.searchRange(new int[]{5,7,7,8,8,10},8);
     }
 }
