@@ -40,6 +40,7 @@ public class Main {
 //        SearchInsertPoint.searchInsert(new int[]{1,3,5,6},7);
 //        FirstAndLastElement.searchRange(new int[]{5,7,7,8,8,10},8);
 //        FindPeakElement.findPeakElement(new int[]{1,2,1,3,5,6,4});
-        RotatedSortedArray1.search(new int[]{4,5,6,7,0,1,2},7);
+//        RotatedSortedArray1.search(new int[]{4,5,6,7,0,1,2},7);
+        RotatedSortedArray2.search(new int[]{2,5,6,0,0,1,},0);
     }
 }
