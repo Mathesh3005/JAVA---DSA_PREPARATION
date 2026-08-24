@@ -44,7 +44,7 @@ public class Main {
 //        RotatedSortedArray2.search(new int[]{2,5,6,0,0,1,},0);
 //        MinimumInRotatedSortedArray.findMin(new int[]{3,4,5,1,2});
 //        SingleElementInSortedArray.singleNonDuplicate(new int[]{1,1,2,3,3,4,4,8,8});
-        KoKoEatingBananas.minEatingSpeed(new int[]{3,6,7,11},8);
-
+//        KoKoEatingBananas.minEatingSpeed(new int[]{3,6,7,11},8);
+        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
     }
 }
