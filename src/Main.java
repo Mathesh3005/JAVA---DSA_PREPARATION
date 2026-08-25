@@ -45,6 +45,7 @@ public class Main {
 //        MinimumInRotatedSortedArray.findMin(new int[]{3,4,5,1,2});
 //        SingleElementInSortedArray.singleNonDuplicate(new int[]{1,1,2,3,3,4,4,8,8});
 //        KoKoEatingBananas.minEatingSpeed(new int[]{3,6,7,11},8);
-        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
+//        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
+        SmallestDivisorInThreshold.smallestDivisor(new int[]{1,2,5,9},6);
     }
 }
