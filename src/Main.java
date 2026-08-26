@@ -46,6 +46,8 @@ public class Main {
 //        SingleElementInSortedArray.singleNonDuplicate(new int[]{1,1,2,3,3,4,4,8,8});
 //        KoKoEatingBananas.minEatingSpeed(new int[]{3,6,7,11},8);
 //        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
-        SmallestDivisorInThreshold.smallestDivisor(new int[]{1,2,5,9},6);
+//        SmallestDivisorInThreshold.smallestDivisor(new int[]{1,2,5,9},6);
+        CapacityToShipPackages.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10},5);
+
     }
 }
