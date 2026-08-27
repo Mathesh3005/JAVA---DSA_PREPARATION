@@ -47,7 +47,8 @@ public class Main {
 //        KoKoEatingBananas.minEatingSpeed(new int[]{3,6,7,11},8);
 //        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
 //        SmallestDivisorInThreshold.smallestDivisor(new int[]{1,2,5,9},6);
-        CapacityToShipPackages.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10},5);
+//        CapacityToShipPackages.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10},5);
+        KthMissingPositiveNumber.findKthPositive(new int[]{2,3,4,7,11},5);
 
     }
 }
