@@ -48,7 +48,8 @@ public class Main {
 //        MinimumNoOfDaysToMakeBouquets.minDays(new int[]{1,10,3,10,2},3,1);
 //        SmallestDivisorInThreshold.smallestDivisor(new int[]{1,2,5,9},6);
 //        CapacityToShipPackages.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10},5);
-        KthMissingPositiveNumber.findKthPositive(new int[]{2,3,4,7,11},5);
+//        KthMissingPositiveNumber.findKthPositive(new int[]{2,3,4,7,11},5);
+        SplitArrayLargestSum.splitArray(new int[]{7,2,5,10,8},2);
 
     }
 }
