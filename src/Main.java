@@ -56,7 +56,8 @@ public class Main {
 //        FindAPeakElement2.findPeakGrid(new int[][]{{1,4},{3,2}});
 //        IntersectionOfTwoArray2.intersect(new int[]{1, 2, 2, 1},new int[]{2, 2});
 //        ValidPrefectSquare.isPerfectSquare(16);
-        ArrangingCoins.arrangeCoins(5);
+//        ArrangingCoins.arrangeCoins(5);
+        SquareOfValue.mySqrt(4);
 
     }
 }
