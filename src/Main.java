@@ -1,6 +1,7 @@
 import Arrays.*;
 import Binary_Search.*;
 import Strings.LargestOddNumberInString;
+import Strings.LongestCommonPrefix;
 import Strings.RemoveOuterMostParentheses;
 import Strings.ReverseWordsInString;
 
@@ -68,7 +69,8 @@ public class Main {
 
 //        RemoveOuterMostParentheses.removeOuterParentheses("(()())(())");
 //        ReverseWordsInString.reverseWords("the sky is blue");
-        LargestOddNumberInString.largestOddNumber("52");
+//        LargestOddNumberInString.largestOddNumber("52");
+        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
 
     }
 }
