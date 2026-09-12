@@ -1,9 +1,6 @@
 import Arrays.*;
 import Binary_Search.*;
-import Strings.LargestOddNumberInString;
-import Strings.LongestCommonPrefix;
-import Strings.RemoveOuterMostParentheses;
-import Strings.ReverseWordsInString;
+import Strings.*;
 
 import java.util.*;
 public class Main {
@@ -70,7 +67,8 @@ public class Main {
 //        RemoveOuterMostParentheses.removeOuterParentheses("(()())(())");
 //        ReverseWordsInString.reverseWords("the sky is blue");
 //        LargestOddNumberInString.largestOddNumber("52");
-        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
+//        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
+        IsomarphicStrings.isIsomorphic("egg","add");
 
     }
 }
