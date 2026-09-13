@@ -68,7 +68,8 @@ public class Main {
 //        ReverseWordsInString.reverseWords("the sky is blue");
 //        LargestOddNumberInString.largestOddNumber("52");
 //        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
-        IsomarphicStrings.isIsomorphic("egg","add");
+//        IsomarphicStrings.isIsomorphic("egg","add");
+        RotateString.rotateString("abcde","cdeab");
 
     }
 }
