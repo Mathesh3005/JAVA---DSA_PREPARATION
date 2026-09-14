@@ -69,7 +69,8 @@ public class Main {
 //        LargestOddNumberInString.largestOddNumber("52");
 //        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
 //        IsomarphicStrings.isIsomorphic("egg","add");
-        RotateString.rotateString("abcde","cdeab");
+//        RotateString.rotateString("abcde","cdeab");
+        ValidAnagram.isAnagram("anagram","nagaram");
 
     }
 }
