@@ -70,7 +70,8 @@ public class Main {
 //        LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"});
 //        IsomarphicStrings.isIsomorphic("egg","add");
 //        RotateString.rotateString("abcde","cdeab");
-        ValidAnagram.isAnagram("anagram","nagaram");
+//        ValidAnagram.isAnagram("anagram","nagaram");
+        SortCharactersByFrequency.frequencySort("tree");
 
     }
 }
