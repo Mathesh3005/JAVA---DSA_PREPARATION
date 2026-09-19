@@ -25,7 +25,7 @@ public class StringToInteger {
             return helper(s, i + 1, num, sign);
         }
 
-        static int myAtoi(String s) {
+        public static int myAtoi(String s) {
             int i = 0;
 
             // Skip whitespaces
