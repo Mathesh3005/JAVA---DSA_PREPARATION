@@ -76,7 +76,8 @@ public class Main {
 //        RomanToInteger.romanToInt("LVIII");
 //        int ans = StringToInteger.myAtoi("42");
 //        System.out.print(ans);
-        LongestPalindromicSubstring.longestPalindrome("babad");
+//        LongestPalindromicSubstring.longestPalindrome("babad");
+        SumOfBeautyOfAllSubStrings.beautySum("aabcb");
 
     }
 }
