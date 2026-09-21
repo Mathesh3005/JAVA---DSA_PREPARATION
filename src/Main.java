@@ -77,7 +77,8 @@ public class Main {
 //        int ans = StringToInteger.myAtoi("42");
 //        System.out.print(ans);
 //        LongestPalindromicSubstring.longestPalindrome("babad");
-        SumOfBeautyOfAllSubStrings.beautySum("aabcb");
+//        SumOfBeautyOfAllSubStrings.beautySum("aabcb");
+        MinimumAddToMakeParenthesesValid.minAddToMakeValid("())");
 
     }
 }
