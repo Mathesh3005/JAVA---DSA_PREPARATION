@@ -83,8 +83,9 @@ public class Main {
 //        LongestPalindromicSubstring.longestPalindrome("babad");
 //        SumOfBeautyOfAllSubStrings.beautySum("aabcb");
 //        MinimumAddToMakeParenthesesValid.minAddToMakeValid("())");
-        String ans = CountAndSay.countAndSay(4);
-        System.out.print(ans);
+//        String ans = CountAndSay.countAndSay(4);
+//        System.out.print(ans);
+        ValidStringMatch.repeatedStringMatch("abcd","cdabcdab");
 
     }
 }
