@@ -85,7 +85,8 @@ public class Main {
 //        MinimumAddToMakeParenthesesValid.minAddToMakeValid("())");
 //        String ans = CountAndSay.countAndSay(4);
 //        System.out.print(ans);
-        ValidStringMatch.repeatedStringMatch("abcd","cdabcdab");
+//        ValidStringMatch.repeatedStringMatch("abcd","cdabcdab");
+        IndexOfFirstOccurance.strStr("sadbutsad","sad");
 
     }
 }
