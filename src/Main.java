@@ -86,7 +86,9 @@ public class Main {
 //        String ans = CountAndSay.countAndSay(4);
 //        System.out.print(ans);
 //        ValidStringMatch.repeatedStringMatch("abcd","cdabcdab");
-        IndexOfFirstOccurance.strStr("sadbutsad","sad");
+//        IndexOfFirstOccurance.strStr("sadbutsad","sad");
+        ShortestPalindrome.shortestPalindrome("aacecaaa");
+
 
     }
 }
