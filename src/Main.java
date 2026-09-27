@@ -1,5 +1,6 @@
 import Arrays.*;
 import Binary_Search.*;
+import Common_Program.PowOfxAndy;
 import Strings.*;
 
 import java.util.*;
@@ -65,6 +66,14 @@ public class Main {
 //        SquareOfValue.mySqrt(4);
 
 
+         // Common Problems
+
+        PowOfxAndy.myPow(2.00000,10);
+
+
+
+
+
 
           // Strings
 
@@ -88,7 +97,7 @@ public class Main {
 //        ValidStringMatch.repeatedStringMatch("abcd","cdabcdab");
 //        IndexOfFirstOccurance.strStr("sadbutsad","sad");
 //        ShortestPalindrome.shortestPalindrome("aacecaaa");
-        LongestHappyPrefix.longestPrefix("level");
+//        LongestHappyPrefix.longestPrefix("level");
 
 
     }
