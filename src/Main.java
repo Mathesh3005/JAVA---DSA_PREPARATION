@@ -1,6 +1,7 @@
 import Arrays.*;
 import Binary_Search.*;
 import Common_Program.PowOfxAndy;
+import RecursionAndBacktracking.GenerateParentheses;
 import Strings.*;
 
 import java.util.*;
@@ -68,7 +69,7 @@ public class Main {
 
          // Common Problems
 
-        PowOfxAndy.myPow(2.00000,10);
+//        PowOfxAndy.myPow(2.00000,10);
 
 
 
@@ -98,6 +99,15 @@ public class Main {
 //        IndexOfFirstOccurance.strStr("sadbutsad","sad");
 //        ShortestPalindrome.shortestPalindrome("aacecaaa");
 //        LongestHappyPrefix.longestPrefix("level");
+
+
+
+
+        //  Recursion &
+
+
+        List<String> anss = GenerateParentheses.generateParenthesis(3);
+        System.out.print(anss);
 
 
     }
