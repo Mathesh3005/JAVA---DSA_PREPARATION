@@ -2,9 +2,10 @@ import Arrays.*;
 import Binary_Search.*;
 import Common_Program.PowOfxAndy;
 import RecursionAndBacktracking.GenerateParentheses;
+import RecursionAndBacktracking.SubSets;
 import Strings.*;
-
 import java.util.*;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -106,8 +107,10 @@ public class Main {
         //  Recursion &
 
 
-        List<String> anss = GenerateParentheses.generateParenthesis(3);
-        System.out.print(anss);
+//        List<String> anss = GenerateParentheses.generateParenthesis(3);
+//        System.out.print(anss);
+        List<List<Integer>> ans = SubSets.subsets(new int[]{1,2,3});
+        System.out.print(ans);
 
 
     }
