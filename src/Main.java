@@ -2,6 +2,7 @@ import Arrays.*;
 import Binary_Search.*;
 import Common_Program.PowOfxAndy;
 import RecursionAndBacktracking.CombinationSum;
+import RecursionAndBacktracking.CombinationSum2;
 import RecursionAndBacktracking.GenerateParentheses;
 import RecursionAndBacktracking.SubSets;
 import Strings.*;
@@ -112,7 +113,8 @@ public class Main {
 //        System.out.print(anss);
 //        List<List<Integer>> ans = SubSets.subsets(new int[]{1,2,3});
 //        System.out.print(ans);
-        CombinationSum.combinationSum(new int[]{2,3,6,7},7);
+//        CombinationSum.combinationSum(new int[]{2,3,6,7},7);
+        CombinationSum2.combinationSum2(new int[]{10,1,2,7,6,1,5},6);
 
 
     }

@@ -3,7 +3,7 @@ import java.util.HashMap;
 // Input = {1,1,1}
 // Output = 2
 
-class Solution {
+
     public int subarraySum(int[] nums, int k) {
         int count = 0;
         int prefixSum = 0;
