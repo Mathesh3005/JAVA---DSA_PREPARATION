@@ -1,10 +1,11 @@
-import java.util.HashMap;
+package Arrays;
+import java.util.*;
 
 // Input = {1,1,1}
 // Output = 2
 
-
-    public int subarraySum(int[] nums, int k) {
+class SubArraySumEqualsKPrefixsum{
+    public static void subarraySum(int[] nums, int k) {
         int count = 0;
         int prefixSum = 0;
 
@@ -20,6 +21,6 @@ import java.util.HashMap;
             map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
         }
 
-        return count;
+        System.out.print(count);
     }
 }
