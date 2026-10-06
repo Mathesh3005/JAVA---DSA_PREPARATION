@@ -112,7 +112,8 @@ public class Main {
 //        System.out.print(ans);
 //        CombinationSum.combinationSum(new int[]{2,3,6,7},7);
 //        CombinationSum2.combinationSum2(new int[]{10,1,2,7,6,1,5},6);
-        SubSet2.subsetsWithDup(new int[]{1,2,2});
+//        SubSet2.subsetsWithDup(new int[]{1,2,2});
+        CombinationSum3.combinationSum3(3,7);
 
 
     }
