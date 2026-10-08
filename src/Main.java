@@ -114,7 +114,8 @@ public class Main {
 //        CombinationSum2.combinationSum2(new int[]{10,1,2,7,6,1,5},6);
 //        SubSet2.subsetsWithDup(new int[]{1,2,2});
 //        CombinationSum3.combinationSum3(3,7);
-        LetterCombination.letterCombinations("23");
+//        LetterCombination.letterCombinations("23");
+        PalindromePartitioning.partition("aab");
 
 
     }
