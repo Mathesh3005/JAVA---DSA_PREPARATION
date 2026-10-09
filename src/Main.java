@@ -74,8 +74,6 @@ public class Main {
 
 
 
-
-
           // Strings
 
 //        RemoveOuterMostParentheses.removeOuterParentheses("(()())(())");
@@ -115,8 +113,9 @@ public class Main {
 //        SubSet2.subsetsWithDup(new int[]{1,2,2});
 //        CombinationSum3.combinationSum3(3,7);
 //        LetterCombination.letterCombinations("23");
-        PalindromePartitioning.partition("aab");
-
+//        PalindromePartitioning.partition("aab");
+        boolean val = WordSearch.exist(new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}},"ABCCED");
+        System.out.print(val);
 
     }
 }
