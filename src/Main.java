@@ -114,8 +114,9 @@ public class Main {
 //        CombinationSum3.combinationSum3(3,7);
 //        LetterCombination.letterCombinations("23");
 //        PalindromePartitioning.partition("aab");
-        boolean val = WordSearch.exist(new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}},"ABCCED");
-        System.out.print(val);
+//        boolean val = WordSearch.exist(new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}},"ABCCED");
+//        System.out.print(val);
+        N_Queens.solveNQueens(4);
 
     }
 }
