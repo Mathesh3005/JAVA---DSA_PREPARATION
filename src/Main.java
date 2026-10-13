@@ -1,5 +1,6 @@
 import Arrays.*;
 import Binary_Search.*;
+import Common_Program.CountPrimes;
 import Common_Program.PowOfxAndy;
 import RecursionAndBacktracking.*;
 import Strings.*;
@@ -70,6 +71,7 @@ public class Main {
          // Common Problems
 
 //        PowOfxAndy.myPow(2.00000,10);
+        CountPrimes.countPrimes(10);
 
 
 
@@ -126,7 +128,7 @@ public class Main {
 //                                                {'.','6','.','.','.','.','2','8','.'},
 //                                                {'.','.','.','4','1','9','.','.','5'},
 //                                                {'.','.','.','.','8','.','.','7','9'}});
-        ExpressionAddOperator.addOperators("123",6);
+//        ExpressionAddOperator.addOperators("123",6);
 
     }
 }
