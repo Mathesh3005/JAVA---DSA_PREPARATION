@@ -66,12 +66,13 @@ public class Main {
 //        ValidPrefectSquare.isPerfectSquare(16);
 //        ArrangingCoins.arrangeCoins(5);
 //        SquareOfValue.mySqrt(4);
+        FindMinimumInSortedArr2.findMin(new int[]{1,3,5});
 
 
          // Common Problems
 
 //        PowOfxAndy.myPow(2.00000,10);
-        CountPrimes.countPrimes(10);
+//        CountPrimes.countPrimes(10);
 
 
 
