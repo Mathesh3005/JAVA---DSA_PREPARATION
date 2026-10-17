@@ -40,6 +40,7 @@ public class Main {
 //        SubArraySumEqualsKPrefixsum.subarraySum(new int[]{1,1,1},2);
 //        ContinuousSubarraySum.checkSubarraySum(new int[]{23,2,4,6,7},6);
 //        LengthOfLongestSubarray.maxSubarrayLength(new int[]{1,2,3,1,2,3,1,2},2);
+        RemoveElements.removeElement(new int[]{3,2,2,3},3);
 
 
           // Binary Search
