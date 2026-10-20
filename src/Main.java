@@ -42,7 +42,8 @@ public class Main {
 //        LengthOfLongestSubarray.maxSubarrayLength(new int[]{1,2,3,1,2,3,1,2},2);
 //        RemoveElements.removeElement(new int[]{3,2,2,3},3);
 //        ContainsDuplicates2.containsNearbyDuplicate(new int[]{1,2,3,1},3);
-        FindAllNumbersDisappear.findDisappearedNumbers(new int[]{4,3,2,7,8,2,3,1});
+//        FindAllNumbersDisappear.findDisappearedNumbers(new int[]{4,3,2,7,8,2,3,1});
+        ThreeSumClosest.threeSumClosest(new int[]{-1,2,1,-4},1);
 
 
           // Binary Search
