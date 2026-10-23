@@ -45,7 +45,8 @@ public class Main {
 //        FindAllNumbersDisappear.findDisappearedNumbers(new int[]{4,3,2,7,8,2,3,1});
 //        ThreeSumClosest.threeSumClosest(new int[]{-1,2,1,-4},1);
 //        RemoveDuplicatesFromArray2.removeDuplicates(new int[]{1,1,1,2,2,3});
-        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
+//        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
+        SmallestRange1.smallestRangeI(new int[]{0,10},2);
 
 
           // Binary Search
