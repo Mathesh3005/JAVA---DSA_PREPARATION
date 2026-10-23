@@ -46,7 +46,7 @@ public class Main {
 //        ThreeSumClosest.threeSumClosest(new int[]{-1,2,1,-4},1);
 //        RemoveDuplicatesFromArray2.removeDuplicates(new int[]{1,1,1,2,2,3});
 //        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
-        SmallestRange1.smallestRangeI(new int[]{0,10},2);
+//        SmallestRange1.smallestRangeI(new int[]{0,10},2);
 
 
           // Binary Search
@@ -137,6 +137,7 @@ public class Main {
 //                                                {'.','.','.','4','1','9','.','.','5'},
 //                                                {'.','.','.','.','8','.','.','7','9'}});
 //        ExpressionAddOperator.addOperators("123",6);
+        Permutation.permute(new int[]{1,2,3});
 
     }
 }
