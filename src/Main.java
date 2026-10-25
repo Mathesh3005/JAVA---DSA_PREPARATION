@@ -107,6 +107,7 @@ public class Main {
 //        IndexOfFirstOccurance.strStr("sadbutsad","sad");
 //        ShortestPalindrome.shortestPalindrome("aacecaaa");
 //        LongestHappyPrefix.longestPrefix("level");
+        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
 
 
 
@@ -137,7 +138,7 @@ public class Main {
 //                                                {'.','.','.','4','1','9','.','.','5'},
 //                                                {'.','.','.','.','8','.','.','7','9'}});
 //        ExpressionAddOperator.addOperators("123",6);
-        Permutation.permute(new int[]{1,2,3});
+//        Permutation.permute(new int[]{1,2,3});
 
     }
 }
