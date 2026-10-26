@@ -107,7 +107,8 @@ public class Main {
 //        IndexOfFirstOccurance.strStr("sadbutsad","sad");
 //        ShortestPalindrome.shortestPalindrome("aacecaaa");
 //        LongestHappyPrefix.longestPrefix("level");
-        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
+//        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
+        FindTheDifference.findTheDifference("abcd","abcde");
 
 
 
