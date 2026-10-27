@@ -108,7 +108,8 @@ public class Main {
 //        ShortestPalindrome.shortestPalindrome("aacecaaa");
 //        LongestHappyPrefix.longestPrefix("level");
 //        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
-        FindTheDifference.findTheDifference("abcd","abcde");
+//        FindTheDifference.findTheDifference("abcd","abcde");
+        WordPattern.wordPattern("abba","dog cat cat dog");
 
 
 
