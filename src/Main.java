@@ -47,6 +47,7 @@ public class Main {
 //        RemoveDuplicatesFromArray2.removeDuplicates(new int[]{1,1,1,2,2,3});
 //        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
 //        SmallestRange1.smallestRangeI(new int[]{0,10},2);
+        PascalsTriangle.generate(5);
 
 
           // Binary Search
@@ -109,7 +110,7 @@ public class Main {
 //        LongestHappyPrefix.longestPrefix("level");
 //        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
 //        FindTheDifference.findTheDifference("abcd","abcde");
-        WordPattern.wordPattern("abba","dog cat cat dog");
+//        WordPattern.wordPattern("abba","dog cat cat dog");
 
 
 
