@@ -47,7 +47,8 @@ public class Main {
 //        RemoveDuplicatesFromArray2.removeDuplicates(new int[]{1,1,1,2,2,3});
 //        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
 //        SmallestRange1.smallestRangeI(new int[]{0,10},2);
-        PascalsTriangle.generate(5);
+//        PascalsTriangle.generate(5);
+        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
 
 
           // Binary Search
