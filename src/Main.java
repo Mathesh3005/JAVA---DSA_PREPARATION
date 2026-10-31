@@ -48,7 +48,7 @@ public class Main {
 //        FourSum.fourSum(new int[]{1,0,-1,0,-2,2},0);
 //        SmallestRange1.smallestRangeI(new int[]{0,10},2);
 //        PascalsTriangle.generate(5);
-        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
+//        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
 
 
           // Binary Search
@@ -112,6 +112,7 @@ public class Main {
 //        LengthOfLastWord.lengthOfLastWord("   fly me   to   the moon  ");
 //        FindTheDifference.findTheDifference("abcd","abcde");
 //        WordPattern.wordPattern("abba","dog cat cat dog");
+        ReverseVowelsOfString.reverseVowels("IceCreAm");
 
 
 
