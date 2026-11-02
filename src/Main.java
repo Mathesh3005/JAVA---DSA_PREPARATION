@@ -113,7 +113,8 @@ public class Main {
 //        FindTheDifference.findTheDifference("abcd","abcde");
 //        WordPattern.wordPattern("abba","dog cat cat dog");
 //        ReverseVowelsOfString.reverseVowels("IceCreAm");
-        LongestSubStringWORepeat.lengthOfLongestSubstring("abcabcbb");
+//        LongestSubStringWORepeat.lengthOfLongestSubstring("abcabcbb");
+        MultiplyString.multiply("2","3");
 
 
 
