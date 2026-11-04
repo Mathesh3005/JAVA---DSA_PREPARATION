@@ -115,7 +115,7 @@ public class Main {
 //        ReverseVowelsOfString.reverseVowels("IceCreAm");
 //        LongestSubStringWORepeat.lengthOfLongestSubstring("abcabcbb");
 //        MultiplyString.multiply("2","3");
-        IntegerToRomen.intToRoman(3749);
+//        IntegerToRomen.intToRoman(3749);
 
 
 
@@ -147,6 +147,7 @@ public class Main {
 //                                                {'.','.','.','.','8','.','.','7','9'}});
 //        ExpressionAddOperator.addOperators("123",6);
 //        Permutation.permute(new int[]{1,2,3});
+        Permutation2.permuteUnique(new int[]{1,2,3});
 
     }
 }
