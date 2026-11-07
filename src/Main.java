@@ -49,6 +49,7 @@ public class Main {
 //        SmallestRange1.smallestRangeI(new int[]{0,10},2);
 //        PascalsTriangle.generate(5);
 //        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
+        GroupAnagram.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
 
 
           // Binary Search
@@ -116,7 +117,7 @@ public class Main {
 //        LongestSubStringWORepeat.lengthOfLongestSubstring("abcabcbb");
 //        MultiplyString.multiply("2","3");
 //        IntegerToRomen.intToRoman(3749);
-        RegularExpressionMatching.isMatch("aa","a*");
+//        RegularExpressionMatching.isMatch("aa","a*");
 
 
 
