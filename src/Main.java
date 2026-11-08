@@ -49,7 +49,8 @@ public class Main {
 //        SmallestRange1.smallestRangeI(new int[]{0,10},2);
 //        PascalsTriangle.generate(5);
 //        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
-        GroupAnagram.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
+//        GroupAnagram.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
+        MergeIntervels.merge(new int[][]{{1,3},{2,6},{8,10},{15,18}});
 
 
           // Binary Search
