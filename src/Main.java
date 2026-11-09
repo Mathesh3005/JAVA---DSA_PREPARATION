@@ -50,7 +50,8 @@ public class Main {
 //        PascalsTriangle.generate(5);
 //        FirstMissingPositive.firstMissingPositive(new int[]{3,4,-1,1});
 //        GroupAnagram.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
-        MergeIntervels.merge(new int[][]{{1,3},{2,6},{8,10},{15,18}});
+//        MergeIntervels.merge(new int[][]{{1,3},{2,6},{8,10},{15,18}});
+        Triangle.minimumTotal(new ArrayList<>({(2),(3,4),(6,5,7),(4,1,8,3)}));
 
 
           // Binary Search
