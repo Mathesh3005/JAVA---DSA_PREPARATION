@@ -2,6 +2,7 @@ import Arrays.*;
 import Binary_Search.*;
 import Common_Program.CountPrimes;
 import Common_Program.PowOfxAndy;
+import Common_Program.PowerOfTwo;
 import RecursionAndBacktracking.*;
 import Strings.*;
 import java.util.*;
@@ -85,6 +86,7 @@ public class Main {
 
 //        PowOfxAndy.myPow(2.00000,10);
 //        CountPrimes.countPrimes(10);
+        PowerOfTwo.isPowerOfTwo(16);
 
 
 
@@ -120,7 +122,7 @@ public class Main {
 //        MultiplyString.multiply("2","3");
 //        IntegerToRomen.intToRoman(3749);
 //        RegularExpressionMatching.isMatch("aa","a*");
-        ConvertANumberToHexaDecimal.toHex(26);
+//        ConvertANumberToHexaDecimal.toHex(26);
 
 
 
