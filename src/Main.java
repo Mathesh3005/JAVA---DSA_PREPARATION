@@ -86,7 +86,7 @@ public class Main {
 
 //        PowOfxAndy.myPow(2.00000,10);
 //        CountPrimes.countPrimes(10);
-        PowerOfTwo.isPowerOfTwo(16);
+//        PowerOfTwo.isPowerOfTwo(16);
 
 
 
@@ -123,6 +123,7 @@ public class Main {
 //        IntegerToRomen.intToRoman(3749);
 //        RegularExpressionMatching.isMatch("aa","a*");
 //        ConvertANumberToHexaDecimal.toHex(26);
+        SimplifyPath.simplifyPath("/home//foo/");
 
 
 
