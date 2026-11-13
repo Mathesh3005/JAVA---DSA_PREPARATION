@@ -53,6 +53,7 @@ public class Main {
 //        GroupAnagram.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
 //        MergeIntervels.merge(new int[][]{{1,3},{2,6},{8,10},{15,18}});
 //        Triangle.minimumTotal(new ArrayList<>({(2),(3,4),(6,5,7),(4,1,8,3)}));
+        String Ans = LargestNumber.largestNumber(new int[]{3,30,34,5,9}); System.out.print(Ans);
 
 
           // Binary Search
@@ -123,7 +124,7 @@ public class Main {
 //        IntegerToRomen.intToRoman(3749);
 //        RegularExpressionMatching.isMatch("aa","a*");
 //        ConvertANumberToHexaDecimal.toHex(26);
-        SimplifyPath.simplifyPath("/home//foo/");
+//        SimplifyPath.simplifyPath("/home//foo/");
 
 
 
